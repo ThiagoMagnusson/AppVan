@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android", "Android\Android.csproj", "{023835EB-D0F8-4666-8C51-DCEDE487A4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco.Entidades", "Banco.Entidades\Banco.Entidades.csproj", "{01C95FE7-7813-4887-A592-1BC3151D4E43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Acesso ao Banco", "1 - Acesso ao Banco", "{FC88CE06-66B5-4CAD-BC74-304EB729DF34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Logica + WebService", "2 - Logica + WebService", "{873A4527-CA97-463E-ABDD-0393AFDFD3B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Acesso Web Service", "3 - Acesso Web Service", "{CD1E9162-2260-4C3F-B998-22E6EE5E8838}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Interface", "4 - Interface", "{D7C18AF2-76EB-4B26-B7A8-9814D3B5D174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco.DAL", "Banco.DAL\Banco.DAL.csproj", "{600613D6-3F3E-49E9-A933-D6FC6F0D0D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{071AE8AE-2400-4BB8-A83B-6BA0C95084BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{5874D3D2-64B0-4F76-9A69-98593DC93161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoWs", "AcessoWs\AcessoWs.csproj", "{4DF9B25D-8F73-4FA5-AA55-A0C3360717BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{01C95FE7-7813-4887-A592-1BC3151D4E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C95FE7-7813-4887-A592-1BC3151D4E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C95FE7-7813-4887-A592-1BC3151D4E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C95FE7-7813-4887-A592-1BC3151D4E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600613D6-3F3E-49E9-A933-D6FC6F0D0D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600613D6-3F3E-49E9-A933-D6FC6F0D0D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600613D6-3F3E-49E9-A933-D6FC6F0D0D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600613D6-3F3E-49E9-A933-D6FC6F0D0D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071AE8AE-2400-4BB8-A83B-6BA0C95084BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071AE8AE-2400-4BB8-A83B-6BA0C95084BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071AE8AE-2400-4BB8-A83B-6BA0C95084BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071AE8AE-2400-4BB8-A83B-6BA0C95084BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5874D3D2-64B0-4F76-9A69-98593DC93161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5874D3D2-64B0-4F76-9A69-98593DC93161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5874D3D2-64B0-4F76-9A69-98593DC93161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5874D3D2-64B0-4F76-9A69-98593DC93161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF9B25D-8F73-4FA5-AA55-A0C3360717BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF9B25D-8F73-4FA5-AA55-A0C3360717BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF9B25D-8F73-4FA5-AA55-A0C3360717BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF9B25D-8F73-4FA5-AA55-A0C3360717BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{023835EB-D0F8-4666-8C51-DCEDE487A4DF} = {D7C18AF2-76EB-4B26-B7A8-9814D3B5D174}
+		{01C95FE7-7813-4887-A592-1BC3151D4E43} = {FC88CE06-66B5-4CAD-BC74-304EB729DF34}
+		{600613D6-3F3E-49E9-A933-D6FC6F0D0D6A} = {FC88CE06-66B5-4CAD-BC74-304EB729DF34}
+		{071AE8AE-2400-4BB8-A83B-6BA0C95084BC} = {873A4527-CA97-463E-ABDD-0393AFDFD3B9}
+		{5874D3D2-64B0-4F76-9A69-98593DC93161} = {873A4527-CA97-463E-ABDD-0393AFDFD3B9}
+		{4DF9B25D-8F73-4FA5-AA55-A0C3360717BF} = {CD1E9162-2260-4C3F-B998-22E6EE5E8838}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\bin\Debug\Appvam.Mobile.dll
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\bin\Debug\Appvam.Mobile.pdb
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\bin\Debug\Entidades.dll
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\bin\Debug\Entidades.pdb
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\obj\Debug\Appvam.Mobile.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\obj\Debug\Appvam.Mobile.dll
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Appvam.Mobile\obj\Debug\Appvam.Mobile.pdb

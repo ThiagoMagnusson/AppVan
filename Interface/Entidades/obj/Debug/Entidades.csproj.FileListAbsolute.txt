@@ -1,0 +1,5 @@
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Entidades\bin\Debug\Entidades.dll
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Entidades\obj\Debug\Entidades.dll
+C:\Users\Thiago\Google Drive\Appvam.Mobile\Entidades\obj\Debug\Entidades.pdb

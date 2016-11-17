@@ -1,0 +1,14 @@
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\Banco.DAL.dll.config
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\Banco.DAL.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\Banco.DAL.pdb
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\Banco.Entidades.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\MySql.Data.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\Banco.Entidades.pdb
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\obj\Debug\Banco.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\obj\Debug\Banco.DAL.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\obj\Debug\Banco.DAL.pdb
+C:\Users\Thiago\Google Drive\AppVam\Banco.DAL\bin\Debug\MySql.Data.Entity.EF6.dll

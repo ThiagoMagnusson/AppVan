@@ -1,0 +1,14 @@
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\obj\Debug\AcessoBanco.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\Modelos.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\Modelos.pdb
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\Google.ProtocolBuffers.xml
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\AcessoBanco\obj\Debug\AcessoBanco.pdb

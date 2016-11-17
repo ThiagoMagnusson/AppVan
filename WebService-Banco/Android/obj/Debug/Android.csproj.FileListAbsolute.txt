@@ -1,0 +1,57 @@
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Android.dll
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Android.pdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Android.Android.apk
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Android.Android-Signed.apk
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\Android.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\Android.dll
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\Android.pdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\bin\Android.Android.apk
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\res\layout\main.xml
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\res\values\strings.xml
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\res\drawable\icon.png
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\R.cs.flag
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\uploadflags.txt
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Android.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.Core.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\Android.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Android\obj\Debug\Android.dll.mdb
+C:\Users\Thiago\Documents\AppVam\AppVam\Android\obj\Debug\Android.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\AppVam\AppVam\Android\obj\Debug\Android.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\Android\obj\Debug\Android.pdb
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\Android.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\Android.dll
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\Android.pdb
+C:\Users\Thiago\Google Drive\AppVam\Android\bin\Debug\Android.dll.config
+C:\Users\Thiago\Google Drive\AppVam\Android\bin\Debug\Android.dll
+C:\Users\Thiago\Google Drive\AppVam\Android\bin\Debug\Android.pdb
+C:\Users\Thiago\Google Drive\AppVam\Android\bin\Debug\Android.Android.apk
+C:\Users\Thiago\Google Drive\AppVam\Android\bin\Debug\Android.Android-Signed.apk
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\android\bin\Android.Android.apk
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\res\layout\main.xml
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\res\values\strings.xml
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\res\drawable\icon.png
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\R.cs.flag
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\uploadflags.txt
+C:\Users\Thiago\Google Drive\AppVam\Android\obj\Debug\Android.dll.mdb
+C:\Users\Thiago\Google Drive\AppVam\Android\bin\Debug\Android.dll.mdb

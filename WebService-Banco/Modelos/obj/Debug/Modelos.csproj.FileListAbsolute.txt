@@ -1,0 +1,9 @@
+C:\Users\Thiago\Documents\AppVam\AppVam\Modelos\bin\Debug\Modelos.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Thiago\Documents\AppVam\AppVam\Modelos\obj\Debug\Modelos.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Modelos\bin\Debug\Modelos.dll
+C:\Users\Thiago\Downloads\AppVam\AppVam\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Thiago\Downloads\AppVam\AppVam\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Downloads\AppVam\AppVam\Modelos\obj\Debug\Modelos.dll
+C:\Users\Thiago\Downloads\AppVam\AppVam\Modelos\obj\Debug\Modelos.pdb

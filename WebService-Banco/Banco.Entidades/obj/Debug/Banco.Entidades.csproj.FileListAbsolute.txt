@@ -1,0 +1,9 @@
+C:\Users\Thiago\Documents\AppVam\AppVam\Banco.Entidades\bin\Debug\Banco.Entidades.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\Banco.Entidades\bin\Debug\Banco.Entidades.pdb
+C:\Users\Thiago\Documents\AppVam\AppVam\Banco.Entidades\obj\Debug\Banco.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\AppVam\AppVam\Banco.Entidades\obj\Debug\Banco.Entidades.dll
+C:\Users\Thiago\Documents\AppVam\AppVam\Banco.Entidades\obj\Debug\Banco.Entidades.pdb
+C:\Users\Thiago\Google Drive\AppVam\Banco.Entidades\bin\Debug\Banco.Entidades.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.Entidades\bin\Debug\Banco.Entidades.pdb
+C:\Users\Thiago\Google Drive\AppVam\Banco.Entidades\obj\Debug\Banco.Entidades.dll
+C:\Users\Thiago\Google Drive\AppVam\Banco.Entidades\obj\Debug\Banco.Entidades.pdb
